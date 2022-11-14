@@ -1,6 +1,5 @@
 connection: "htf2022bq"
 
-# include all the views
 include: "/views/**/*.view"
 include: "/explores/**/*.*"
 
